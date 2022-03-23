@@ -4,7 +4,22 @@ h1 {
 }
 #upper {
   text-align: center;
-  margin: 5px;
+  margin: 2px;
+}
+#instructions1 {
+  margin: 0px;
+}
+#pinkO {
+  color: pink;
+}
+#redO {
+  color: red;
+}
+#instructions2 {
+  margin: 0px;
+}
+#instructions3 {
+  margin: 0px;
 }
 #moles {
   text-align: center;
@@ -13,7 +28,7 @@ h1 {
   font-size: 100px;
   padding-left: 35px;
   padding-right: 35px;
-  border: 1px solid red;
+  border: 1px solid gray;
 }
 #one:hover {
   cursor: pointer;
@@ -22,7 +37,7 @@ h1 {
   font-size: 100px;
   padding-left: 35px;
   padding-right: 35px;
-  border: 1px solid red;
+  border: 1px solid gray;
 }
 #two:hover {
   cursor: pointer;
@@ -31,7 +46,7 @@ h1 {
   font-size: 100px;
   padding-left: 35px;
   padding-right: 35px;
-  border: 1px solid red;
+  border: 1px solid gray;
 }
 #three:hover {
   cursor: pointer;
@@ -40,7 +55,7 @@ h1 {
   font-size: 100px;
   padding-left: 35px;
   padding-right: 35px;
-  border: 1px solid red;
+  border: 1px solid gray;
 }
 #four:hover {
   cursor: pointer;
@@ -49,7 +64,7 @@ h1 {
   font-size: 100px;
   padding-left: 35px;
   padding-right: 35px;
-  border: 1px solid red;
+  border: 1px solid gray;
 }
 #five:hover {
   cursor: pointer;
@@ -58,7 +73,7 @@ h1 {
   font-size: 100px;
   padding-left: 35px;
   padding-right: 35px;
-  border: 1px solid red;
+  border: 1px solid gray;
 }
 #six:hover {
   cursor: pointer;
@@ -67,7 +82,7 @@ h1 {
   font-size: 100px;
   padding-left: 35px;
   padding-right: 35px;
-  border: 1px solid red;
+  border: 1px solid gray;
 }
 #seven:hover {
   cursor: pointer;
@@ -76,7 +91,7 @@ h1 {
   font-size: 100px;
   padding-left: 35px;
   padding-right: 35px;
-  border: 1px solid red;
+  border: 1px solid gray;
 }
 #eight:hover {
   cursor: pointer;
@@ -85,7 +100,7 @@ h1 {
   font-size: 100px;
   padding-left: 35px;
   padding-right: 35px;
-  border: 1px solid red;
+  border: 1px solid gray;
 }
 #nine:hover {
   cursor: pointer;
