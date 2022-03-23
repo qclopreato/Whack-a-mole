@@ -1,0 +1,92 @@
+h1 {
+  margin: 0px;
+  text-align: center;
+}
+#upper {
+  text-align: center;
+  margin: 5px;
+}
+#moles {
+  text-align: center;
+}
+#one {
+  font-size: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid red;
+}
+#one:hover {
+  cursor: pointer;
+}
+#two {
+  font-size: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid red;
+}
+#two:hover {
+  cursor: pointer;
+}
+#three {
+  font-size: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid red;
+}
+#three:hover {
+  cursor: pointer;
+}
+#four {
+  font-size: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid red;
+}
+#four:hover {
+  cursor: pointer;
+}
+#five {
+  font-size: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid red;
+}
+#five:hover {
+  cursor: pointer;
+}
+#six {
+  font-size: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid red;
+}
+#six:hover {
+  cursor: pointer;
+}
+#seven {
+  font-size: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid red;
+}
+#seven:hover {
+  cursor: pointer;
+}
+#eight {
+  font-size: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid red;
+}
+#eight:hover {
+  cursor: pointer;
+}
+#nine {
+  font-size: 100px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border: 1px solid red;
+}
+#nine:hover {
+  cursor: pointer;
+}
