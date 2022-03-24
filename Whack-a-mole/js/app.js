@@ -189,10 +189,15 @@ if (score > -10 && score < 10){
     }
     randomNum = Math.floor(1 + Math.random() * 9);
     randomBadNum = Math.floor(1 + Math.random() * 9);
-    if (randomNum === randomBadNum){
+    if (randomNum === randomBadNum && randomNum >= 4){
+        console.log(`Equal big`);
         randomBadNum = randomNum - 3;
+    } else if (randomNum === randomBadNum && randomNum <= 3){
+        console.log(`Equal small`);
+        randomBadNum = randomNum + 3;
     }
     console.log(randomNum);
+    console.log(randomBadNum);
     switch(randomNum){
         case 1:
             document.getElementById(`one`).style.color = "red";
